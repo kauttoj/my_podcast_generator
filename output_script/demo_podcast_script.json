@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "title": "\u00c4\u00e4niaallon Harjalla \u2013 Generatiivinen teko\u00e4ly muuttaa \u00e4\u00e4nimediat",
+    "description": "T\u00e4ss\u00e4 podcastissa sukellamme siihen, miten generatiivinen teko\u00e4ly mullistaa mediasis\u00e4lt\u00f6jen, kuten radion, podcastien ja \u00e4\u00e4nimainonnan, tuotantoa ja kaupallistamista. \u00c4\u00e4ness\u00e4 alan huiput, jotka kertovat tuoreimmat esimerkit teko\u00e4lyn k\u00e4yt\u00e4nn\u00f6n ratkaisuista ja avaavat, milt\u00e4 \u00e4\u00e4nimedian tulevaisuus n\u00e4ytt\u00e4\u00e4. Kuule, miten automaatio, personointi ja eettiset kysymykset vaikuttavat niin tekij\u00f6ihin kuin kuulijoihin eri puolilla maailmaa. Opit, miten ala integroi teko\u00e4ly\u00e4, mink\u00e4laisiin haasteisiin t\u00f6rm\u00e4t\u00e4\u00e4n ja mitk\u00e4 osaamiset auttavat pysym\u00e4\u00e4n aallonharjalla. Olitpa median ammattilainen, alan yritt\u00e4j\u00e4 tai uuden \u00e4\u00e4nen yst\u00e4v\u00e4, t\u00e4m\u00e4 sarja antaa konkreettisia n\u00e4k\u00f6kulmia ja inspiraatiota teko\u00e4lyn aikakauteen.",
+    "language": "finnish",
+    "total_duration": 751.464,
+    "participants": [
+      {
+        "name": "Minna Rautio",
+        "gender": "female",
+        "name_agent": "Minna_Rautio",
+        "role": "host",
+        "description": "Minna on palkittu suomalainen mediatoimittaja, jolla on monipuolinen kokemus sek\u00e4 uutisradion ett\u00e4 kaupallisen median puolelta. H\u00e4n on tunnettu kyvyst\u00e4\u00e4n tehd\u00e4 monimutkaisesta teknologiasta ymm\u00e4rrett\u00e4v\u00e4\u00e4 ja osallistavaa. Minna etsii keskustelusta rakentavia kiiloja ja haastaa vieraita pohtimaan sek\u00e4 mahdollisuuksia ett\u00e4 riskej\u00e4 ytimekk\u00e4\u00e4sti mutta l\u00e4mpim\u00e4ll\u00e4 otteella."
+      },
+      {
+        "name": "Petteri Lehtinen",
+        "name_agent": "Petteri_Lehtinen",
+        "gender": "male",
+        "role": "guest",
+        "description": "Petteri on kansainv\u00e4lisesti kysytty audio- ja teko\u00e4lyteknologian konsultti sek\u00e4 yksi Wondercraft AI:n Euroopan myyntivastaavista. H\u00e4nell\u00e4 on syv\u00e4llinen k\u00e4sitys generatiivisen teko\u00e4lyn k\u00e4yt\u00f6st\u00e4 \u00e4\u00e4nituotannossa ja vankka kokemus kaupallisista AI-projekteista radion, podcastien ja mainonnan saralla. Petteri yhdist\u00e4\u00e4 teknologiataustan liiketoiminta- ja sis\u00e4lt\u00f6osaamiseen \u2013 h\u00e4n n\u00e4kee sek\u00e4 datat ett\u00e4 ihmisl\u00e4heisyyden t\u00e4rkeyden ja osaa perustella AI-trendit maanl\u00e4heisesti, innostaen kuulijoita kokeiluihin."
+      },
+      {
+        "name": "Mar\u00eda del Sol Fern\u00e1ndez",
+        "name_agent": "Maria_del_Sol_Fernandez",
+        "gender": "female",
+        "role": "guest",
+        "description": "Mar\u00eda on meksikolainen media-innovaattori, Grupo F\u00f3rmulan podcast-johtaja ja LatAm Audio AI -yhteis\u00f6n perustajaj\u00e4sen. H\u00e4n on vienyt teko\u00e4lyn k\u00e4yt\u00e4nt\u00f6\u00f6n erityisesti nuorisolle suunnatuissa radio- ja podcast-tuotannoissa (mm. 'NAT'-AI-sis\u00e4ll\u00f6t). Mar\u00eda tunnetaan luovana vision\u00e4\u00e4rin\u00e4 sek\u00e4 vankkana eettisen keskustelun puolestapuhujana. H\u00e4nell\u00e4 on kyky avata globaalin \u00e4\u00e4nimarkkinan muutoksia, tuoden esiin kulttuurieroja, kuuntelijapalautetta ja uusia bisnesmahdollisuuksia innostavalla ja osallistavalla tyylill\u00e4."
+      }
+    ]
+  },
+  "stages": {
+    "metadata": {
+      "status": "completed",
+      "timestamp": "2025-06-03T16:52:02.059832"
+    },
+    "raw_script": {
+      "status": "completed",
+      "timestamp": "2025-06-03T16:54:14.762973"
+    },
+    "final_script": {
+      "status": "completed",
+      "timestamp": "2025-06-03T16:55:21.092337"
+    },
+    "audio_speech": {
+      "status": "completed",
+      "timestamp": "2025-06-03T16:57:32.944308"
+    },
+    "audio_ambient": {
+      "status": "completed",
+      "timestamp": "2025-06-03T16:58:40.115070"
+    }
+  },
+  "last_updated": "2025-06-03T16:58:40.115070",
+  "raw_script": [
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 0,
+      "end_time": 82,
+      "duration": 82,
+      "text": "Tervetuloa mukaan podcastiin \"\u00c4\u00e4niaallon Harjalla \u2013 Generatiivinen teko\u00e4ly muuttaa \u00e4\u00e4nimediat\"! Min\u00e4 olen Minna Rautio, ja t\u00e4n\u00e4\u00e4n sukellamme syv\u00e4lle aiheeseen, joka kuplii t\u00e4ll\u00e4 hetkell\u00e4 sek\u00e4 radioiden, podcast-tuottajien ett\u00e4 mainosratkaisujen p\u00f6ydill\u00e4: miten generatiivinen teko\u00e4ly ja uudet \u00e4\u00e4ni-inovaatiot muuttavat \u00e4\u00e4nimaailmaa sek\u00e4 sis\u00e4ll\u00f6n\u202fett\u00e4 liiketoiminnan n\u00e4k\u00f6kulmasta?\n\nMeill\u00e4 on studiossa kaksi huippuasiantuntijaa, joilla on kokemusta sek\u00e4 teknisist\u00e4 mahdollisuuksista ett\u00e4 eettisist\u00e4 pohdinnoista:\n\nEnsimm\u00e4isen\u00e4 tervetuloa Petteri Lehtinen \u2013 kansainv\u00e4linen audio- ja teko\u00e4lyteknologian konsultti ja Wondercraft AI:n Euroopan myyntivastaava. Petteri, sulla on kyky tuoda data- ja bisnesn\u00e4k\u00f6kulmat ymm\u00e4rrett\u00e4v\u00e4sti arkeen. Mahtavaa saada sut mukaan!\n\nToisena vieraana on Mar\u00eda del Sol Fern\u00e1ndez, Grupo F\u00f3rmulan podcast-johtaja ja LatAm Audio AI -yhteis\u00f6n perustajaj\u00e4sen Meksikosta. Mar\u00eda tunnetaan luovana vision\u00e4\u00e4rin\u00e4 ja rohkeana eettisen keskustelun her\u00e4tt\u00e4j\u00e4n\u00e4, sek\u00e4 nuorisoradioiden teko\u00e4lyhankkeiden rautaisena vet\u00e4j\u00e4n\u00e4.\n\nT\u00e4n\u00e4\u00e4n puhumme siit\u00e4, mit\u00e4 AI oikeasti muuttaa \u00e4\u00e4nimediassa juuri nyt \u2014 ja mit\u00e4 kaikkea t\u00e4m\u00e4 tarkoittaa tuottajille, kuulijoille, ja liiketoiminnalle. Tervetuloa mukaan, Petteri ja Mar\u00eda!\n\nL\u00e4hdet\u00e4\u00e4n heti liikkeelle:  \nPetteri, mik\u00e4 sun mielest\u00e4 on n\u00e4kyvin ja konkreettisin muutos, kun generatiivinen teko\u00e4ly astuu radion, podcastien ja mainonnan tuotantoon?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "start_time": 82.8,
+      "end_time": 116.8,
+      "duration": 34,
+      "text": "T\u00e4h\u00e4n on helppo vastata: nopeus ja skaala! Generatiivinen teko\u00e4ly mahdollistaa nyt sellaista \u00e4\u00e4nisis\u00e4ll\u00f6n tuotantoa, joka ennen vaati tonnin aikaa, laitteita ja ihmisi\u00e4 \u2013 nyky\u00e4\u00e4n jakson tai mainoksen voi loihtia tekstist\u00e4 \u00e4\u00e4neksi minuuteissa. Lis\u00e4ksi voidaan personoida sis\u00e4lt\u00f6\u00e4 juuri tietyille kohderyhmille ja tehd\u00e4 k\u00e4\u00e4nn\u00f6ksi\u00e4 sek\u00e4 \u00e4\u00e4nik\u00e4\u00e4nn\u00f6ksi\u00e4 saumattomasti. Eli AI ei en\u00e4\u00e4 vain virtaviivaista vanhoja prosesseja, vaan avaa my\u00f6s ihan uudenlaisia liiketoimintamalleja, joista moni ei ollut edes mahdollinen pari vuotta sitten!",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "start_time": 117.6,
+      "end_time": 151.6,
+      "duration": 34,
+      "text": "T\u00e4ysin samaa mielt\u00e4 \u2013 t\u00e4m\u00e4 murros n\u00e4kyy todella vahvasti esimerkiksi Latinalaisessa Amerikassa, miss\u00e4 otetaan rohkeasti k\u00e4ytt\u00f6\u00f6n AI-pohjaisia juontajia ja automaatioratkaisuja. Mun n\u00e4k\u00f6kulmasta yksi iso muutos on, ett\u00e4 nuoret kuulijat saadaan kiinni, kun sis\u00e4lt\u00f6\u00e4 voidaan tehd\u00e4 niiden omalla kielell\u00e4 ja jopa omalla hassuttelutyylill\u00e4 \u2013 pelkk\u00e4 k\u00e4\u00e4nn\u00f6s ei en\u00e4\u00e4 riit\u00e4. Toinen puoli on se, ett\u00e4 AI mahdollistaa pienillekin toimijoille p\u00e4\u00e4syn koko maailman markkinoille, jos uskalletaan olla kulttuurisesti relevantteja ja rohkeita!",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 152.39999999999998,
+      "end_time": 185.39999999999998,
+      "duration": 33,
+      "text": "T\u00e4st\u00e4 p\u00e4\u00e4st\u00e4\u00e4nkin heti ytimeen: personointi, nopeus ja uudenlainen luovuus. Mutta nostitte molemmat my\u00f6s sen, ett\u00e4 teko\u00e4lyll\u00e4 voidaan r\u00e4\u00e4t\u00e4l\u00f6id\u00e4 sis\u00e4lt\u00f6\u00e4 kielen, kulttuurin ja jopa huumorin mukaan \u2013 ja tavoittaa yleis\u00f6j\u00e4, joita perinteinen radio ei ehk\u00e4 koskaan olisi saanut innostettua.\n\nKysynp\u00e4 Mar\u00eda sulta tarkennuksena: mill\u00e4 konkreettisilla tavoilla AI on mahdollistanut esimerkiksi Grupo F\u00f3rmulassa just nuorten yleis\u00f6jen tavoittamisen \u2013 voisitko antaa jonkin esimerkin? Ja miten kuulijat on reagoineet teko\u00e4lyjuontajaan, kuten NATiin?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "start_time": 186.2,
+      "end_time": 235.2,
+      "duration": 49,
+      "text": "Meill\u00e4 Grupo F\u00f3rmulassa luotiin NAT, eli teko\u00e4lyll\u00e4 synnytetty nuorisolle suunnattu juontaja, joka tuo uutisia niiden omalla slangilla ja nopeassa formaatissa. NAT osaa k\u00e4ytt\u00e4\u00e4 meemej\u00e4 ja popkulttuuriviittauksia, joita perinteinen uutisradio ei ymm\u00e4rr\u00e4 \u2013 ja pystyy reagoimaan vaikka TikTok-trendeihin reaaliajassa, l\u00e4hes kellon ymp\u00e4ri.\n\nKuulijat on yll\u00e4tt\u00e4v\u00e4n positiivisia! Jotkut eiv\u00e4t edes tied\u00e4, ett\u00e4 kyseess\u00e4 on AI, vaan ajattelevat ett\u00e4 vain \"v\u00e4h\u00e4n erilainen juontaja\". Erityisesti nuoret arvostaa, ett\u00e4 jutut tuntuu kohdennetuilta \u2013 ja palaute on ollut, ett\u00e4 \u201ct\u00e4m\u00e4 on eka kerta kun radiouutiset tuntuvat ihan meid\u00e4n omilta, eik\u00e4 aikuisilta suunnatuilta\u201d. Eli aitouden tunne syntyy uudella tavalla \u2013 ja AI madaltaa kynnyst\u00e4 l\u00e4hte\u00e4 mukaan keskusteluun.",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 236.0,
+      "end_time": 260.0,
+      "duration": 24,
+      "text": "Tuo on aivan loistava havainto \u2013 kuulijakokemus voi olla aidosti rohkaiseva, vaikka taustalla on teko\u00e4ly! Petteri, haluan kysy\u00e4 sulta: miss\u00e4 kaikessa teko\u00e4ly tuo sun kokemuksen perusteella konkreettisesti operatiivista tehokkuutta \u2013 miss\u00e4 huomaatte arjessa isoimman s\u00e4\u00e4st\u00f6n tai ty\u00f6vaiheiden poiston, ja mihin taas AI ei viel\u00e4 kykene, jos katsotaan koko tuotantoketjua?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "start_time": 260.8,
+      "end_time": 303.8,
+      "duration": 43,
+      "text": "T\u00e4rkein tehokkuusloikka n\u00e4kyy sis\u00e4ll\u00f6ntuotannon automatisoinnissa: teko\u00e4ly tekee transkriptiot, editoinnin, melunpoiston ja vaikkapa sosiaaliseen mediaan sopivat klipit l\u00e4hes nappia painamalla. Esimerkiksi Wondercraftilla moni tuottaja sanoo, ett\u00e4 tunnin homma vie en\u00e4\u00e4 minuutin \u2013 ja \u00e4\u00e4nik\u00e4\u00e4nn\u00f6kset avaa nopeasti uudet yleis\u00f6t ilman kalliita studioita tai n\u00e4yttelij\u00f6it\u00e4.\n\nMihin AI ei viel\u00e4 t\u00e4ysin kykene? Ideoiden synty \u2013 sen \u201cluovan kipin\u00e4n\u201d her\u00e4tt\u00e4minen \u2013 vaatii yh\u00e4 inhimillist\u00e4 n\u00e4k\u00f6kulmaa. Syv\u00e4t, persoonalliset jutut ja aitous rakentuvat edelleen ihmisten ja teko\u00e4lyn yhteisty\u00f6ll\u00e4. Eli AI on tosi hyv\u00e4 apulainen, mutta ihmisen ote ja tuntuma on edelleen ratkaiseva, etenkin laadukkaan br\u00e4ndin rakentamisessa.",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 304.6,
+      "end_time": 332.6,
+      "duration": 28,
+      "text": "Hyv\u00e4 nosto tuo \u201cluovan kipin\u00e4n\u201d s\u00e4ilytt\u00e4minen! Teko\u00e4ly hoitaa rutinoidut osa-alueet, mutta isoimmat oivallukset ja br\u00e4ndin persoonallisuus silti vaatii ihmist\u00e4. \n\nMar\u00eda, olet puhunut paljon eettisist\u00e4 ja kulttuurisista n\u00e4k\u00f6kulmista. Kun k\u00e4yt\u00f6ss\u00e4 on vaikka AI-\u00e4\u00e4nikloonit ja deepfaket, miten teill\u00e4 mietit\u00e4\u00e4n aitoutta ja luottamusta \u2013 onko keinoja varmistaa, ett\u00e4 kuulijat tiet\u00e4v\u00e4t mik\u00e4 on koneen ja mik\u00e4 aidon ihmisen luomaa?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "start_time": 333.40000000000003,
+      "end_time": 375.40000000000003,
+      "duration": 42,
+      "text": "T\u00e4\u00e4 on todella t\u00e4rke\u00e4 teema! Meill\u00e4 on linjana, ett\u00e4 kuulijoille kerrotaan avoimesti, kun k\u00e4ytet\u00e4\u00e4n AI-juontajaa tai syntetisoitua \u00e4\u00e4nt\u00e4 \u2013 esimerkiksi NATin tapauksessa mainitaan selv\u00e4sti, ett\u00e4 kyseess\u00e4 on teko\u00e4lyjuontaja. Transparentsi on kaiken a ja o.\n\nLis\u00e4ksi k\u00e4yd\u00e4\u00e4n jatkuvaa keskustelua tiimiss\u00e4: miss\u00e4 menee raja, miss\u00e4 halutaan pit\u00e4\u00e4 inhimillinen kosketus, ja miss\u00e4 AI voi leikitell\u00e4 vapaammin. Ja me my\u00f6s ker\u00e4t\u00e4\u00e4n kuulijoiden palautetta jatkuvasti, koska heid\u00e4n reaktiot kertoo paljon aitouden kokemuksesta. Meill\u00e4 ajatus on, ett\u00e4 AI:n pit\u00e4\u00e4 palvella yhteis\u00f6\u00e4 \u2013 ei vain kokeilla teknologiaa sen itsens\u00e4 takia.",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 376.20000000000005,
+      "end_time": 399.20000000000005,
+      "duration": 23,
+      "text": "Tuo jatkuva palautteen ker\u00e4\u00e4minen on kiinnostavaa \u2013 v\u00e4h\u00e4n samoin kuin lehtitaloissa mietit\u00e4\u00e4n, mik\u00e4 uutisotsikoissa her\u00e4tt\u00e4\u00e4 luottamusta. Petteri, miten \u00e4\u00e4nen kloonaus ja deepfaket n\u00e4kyv\u00e4t nyt Euroopassa eettisest\u00e4 ja juridisesta n\u00e4k\u00f6kulmasta? Miten alan isot toimijat, vaikka Spotify tai Bauer Media, pyrkiv\u00e4t hallitsemaan n\u00e4it\u00e4 riskej\u00e4 ja miss\u00e4 menn\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6ss\u00e4?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "start_time": 400.00000000000006,
+      "end_time": 450.00000000000006,
+      "duration": 50,
+      "text": "Nyt on p\u00e4\u00e4ll\u00e4 voimakas tarkennus eettisiin pelis\u00e4\u00e4nt\u00f6ihin. Esimerkiksi Spotify vaatii vuonna 2025, ett\u00e4 AI-kloonatut biisit ja \u00e4\u00e4net pit\u00e4\u00e4 merkit\u00e4 selke\u00e4sti ja piilottamattomat deepfaket poistetaan. Toistuvista rikkomuksista voi l\u00e4hte\u00e4 koko tili j\u00e4\u00e4hylle. Bauer Media taas panostaa aktiivisesti henkil\u00f6st\u00f6n teko\u00e4lykoulutukseen ja rakentaa omia eettisi\u00e4 k\u00e4yt\u00e4nt\u00f6j\u00e4: avoimuutta, sis\u00e4ist\u00e4 ohjeistusta ja sit\u00e4, ett\u00e4 tiedet\u00e4\u00e4n aina mist\u00e4 \u00e4\u00e4nisis\u00e4lt\u00f6 tulee.\n\nK\u00e4yt\u00e4nn\u00f6ss\u00e4 suurimmat riskit liittyy aitouden menetykseen ja IP-oikeuksiin \u2013 esimerkiksi artistien \u00e4\u00e4nien v\u00e4\u00e4rink\u00e4ytt\u00f6\u00f6n tai uutisten manipulaatioihin. Isoissa taloissa ollaan nyt paljon varovaisempia ja l\u00e4pin\u00e4kyv\u00e4mpi\u00e4 kuin vuosi sitten \u2013 mutta t\u00e4m\u00e4 kentt\u00e4 kehittyy jatkuvasti. Eettiset periaatteet eiv\u00e4t ole en\u00e4\u00e4 vain sanahelin\u00e4\u00e4, vaan ihan keskeinen osa strategiaa!",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 450.80000000000007,
+      "end_time": 472.80000000000007,
+      "duration": 22,
+      "text": "Aivan! Eli nyt teko\u00e4lyn hy\u00f6dynt\u00e4minen vaatii yrityksilt\u00e4 aidosti uusia toimintatapoja, eik\u00e4 pelk\u00e4st\u00e4\u00e4n teknologista innostusta. Haluan nostaa esiin my\u00f6s kuulijakokemuksen: Petteri, miten generatiivinen teko\u00e4ly auttaa rakentamaan yksil\u00f6llisempi\u00e4 ja kiinnostavampia audiopalveluita, esimerkiksi musiikissa, podcasteissa tai uutisissa? Onko n\u00e4ht\u00e4viss\u00e4 konkreettisia esimerkkej\u00e4, miss\u00e4 personointi on tuonut selkeit\u00e4 tuloksia?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "start_time": 473.6000000000001,
+      "end_time": 522.6000000000001,
+      "duration": 49,
+      "text": "Totta kai! Ehk\u00e4 konkreettisin esimerkki on Spotifyn AI-soittolistat ja r\u00e4\u00e4t\u00e4l\u00f6idyt radiokanavat, jotka muodostuvat ihan k\u00e4ytt\u00e4j\u00e4n hetkellisest\u00e4 fiiliksest\u00e4 tai kehotteesta \u2013 \u201cenergiaa t\u00e4lle maanantaille\u201d, \u201cnyt tekee mieli suomalaista r\u00e4ppi\u00e4\u201d, jne. Podcastien puolella teko\u00e4ly voi leipoa juuri sulle sopivan keston ja sis\u00e4ll\u00f6n, tai jakaa \u201cherkkupalat\u201d jaksoista, joita s\u00e4 haluat. Uutisissa taas pystyt\u00e4\u00e4n tarjoamaan kuuntelijalle priorisoitu uutisvirta kiinnostusten ja ajankohdan mukaan.\n\nTulokset n\u00e4kyy konkreettisesti siten, ett\u00e4 kuuntelijat viett\u00e4v\u00e4t enemm\u00e4n aikaa palvelussa ja palaavat useammin \u2013 sek\u00e4 antavat todella positiivista palautetta siit\u00e4, ett\u00e4 \u201ct\u00e4m\u00e4h\u00e4n on kuin mulle tehty!\u201d. Eli personoinnista tulee kilpailuetu, koska en\u00e4\u00e4 ei tyrkytet\u00e4 massasis\u00e4lt\u00f6\u00e4, vaan pysyt\u00e4\u00e4n aidosti relevantteina yksil\u00f6lle.",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 523.4000000000001,
+      "end_time": 546.4000000000001,
+      "duration": 23,
+      "text": "Hyv\u00e4 esimerkki siit\u00e4, miten AI ei ole pelk\u00e4st\u00e4\u00e4n tehokkuuden moottori, vaan my\u00f6s kuuntelijan arjen henkil\u00f6kohtaistaja! Mar\u00eda, miten Latinalaisessa Amerikassa ja esimerkiksi nuorten ryhmiss\u00e4 personointi n\u00e4kyy? Ja onko siell\u00e4 jo havaittu tyytym\u00e4tt\u00f6myytt\u00e4, jos sis\u00e4lt\u00f6 tuntuu liian \u201ckoneelta\u201d tai ylioptimoidulta \u2013 eli onko joskus ylitetty hyv\u00e4n maun raja personoinnissa?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "start_time": 547.2,
+      "end_time": 593.2,
+      "duration": 46,
+      "text": "Todella hyv\u00e4 kysymys! Latinalaisessa Amerikassa nuoret odottavat jo, ett\u00e4 sis\u00e4lt\u00f6 \u201cpuhuu heid\u00e4n maailmastaan\u201d \u2013 eli personointi on enemm\u00e4n kuin vain musikillinen ehdotus, vaan kokonainen \u201cviba\u201d. Jos AI alkaa tarjota liian geneerist\u00e4, tyls\u00e4\u00e4 tai \u201camerikkalaista\u201d setti\u00e4, jengi kyll\u00e4styy nopeasti.  \n\nOn ollut my\u00f6s hetki\u00e4, jolloin hyperpersonointi meni liikaa \u201calgoritmin makuun\u201d \u2013 silloin palautetta tulee heti, ett\u00e4 \u201cnyt tuntuu feikilt\u00e4\u201d tai \u201cm\u00e4 en oo mik\u00e4\u00e4n datarivi\u201d. Siksi meid\u00e4n pit\u00e4\u00e4 jatkuvasti balanssoida aitouden ja personoinnin v\u00e4lill\u00e4: AI saa auttaa, mutta br\u00e4ndin pit\u00e4\u00e4 s\u00e4ily\u00e4 inhimillisen\u00e4 ja osuvana. Ne, ketk\u00e4 osaa yhdist\u00e4\u00e4 oikean fiiliksen ja teknologian, voittaa nuoret puolelleen!",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 594.0,
+      "end_time": 619.0,
+      "duration": 25,
+      "text": "Juuri n\u00e4in \u2013 algoritmi voi olla viisas apuri, mutta ihmisyyden tunnetta yleis\u00f6 vaatii edelleen! Petteri, palataan hetkeksi tuohon arjen ty\u00f6kaluihin. Mit\u00e4 AI-ty\u00f6kaluja s\u00e4 n\u00e4et, ett\u00e4 on jo arkea suomalaisissa radio- ja podcast-tuotannoissa, ja mit\u00e4 pid\u00e4t seuraavana \u201cuutta aaltoa\u201d \u2013 onko esimerkiksi virtuaalijuontajat, automaattinen sis\u00e4ll\u00f6n dubbaus tai deepfake-k\u00e4\u00e4nn\u00f6kset pian valtavirtaa?",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "start_time": 619.8,
+      "end_time": 662.8,
+      "duration": 43,
+      "text": "Suomessa isoimmat arjen ty\u00f6kalut liittyy jo \u00e4\u00e4nen automaattiseen puhdistukseen, editointiin ja transkriptioon \u2013 esim. Descript ja Wondercraftin kaltaiset palvelut ovat hyvin k\u00e4yt\u00f6ss\u00e4. Podcastien uudelleenk\u00e4ytt\u00f6\u00e4 tehostaa AI, joka silppuaa jaksot someklippeihin sekunneissa.\n\nSeuraava aalto? Virtuaalijuontajat ja \u00e4\u00e4nenkloonaukset siirtyy nopeasti testivaiheesta tuotantoon \u2013 ja automaattinen dubbaus eri kielille tulee yll\u00e4tt\u00e4v\u00e4n nopeasti mainstreamiksi, kun kansainv\u00e4listyminen kiihtyy. Deepfake-teknologian kanssa ollaan kyll\u00e4 viel\u00e4 tarkkana, mutta isot yhti\u00f6t kokeilevat jo \u201cturvallisia\u201d k\u00e4ytt\u00f6tapauksia, kuten br\u00e4ndin ohjattua \u00e4\u00e4nibr\u00e4nd\u00e4yst\u00e4 tai nopeita k\u00e4\u00e4nn\u00f6ksi\u00e4 ilman studioa. Eli sanoisin, ett\u00e4 vuoden-parin sis\u00e4\u00e4n n\u00e4m\u00e4 ovat arkea monelle suomalaisellekin mediatalolle!",
+      "style": "neutral"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "start_time": 663.5999999999999,
+      "end_time": 717.5999999999999,
+      "duration": 54,
+      "text": "T\u00e4m\u00e4 on ollut aivan loistava keskustelu \u2013 teid\u00e4n molempien n\u00e4kemykset on tuoneet sek\u00e4 konkretiaa ett\u00e4 suuria visioita siihen, mit\u00e4 generatiivinen teko\u00e4ly tarkoittaa \u00e4\u00e4nimedian arjessa ja tulevaisuudessa. Kiitos Petteri Lehtinen, kun avasit teknologian mahdollisuuksia ja liiketoiminnan konkreettisia hy\u00f6tyj\u00e4! Ja suuret kiitokset Mar\u00eda del Sol Fern\u00e1ndez, kun toit mukaan rohkeutta, kulttuurisia nyansseja ja eettist\u00e4 n\u00e4k\u00f6kulmaa sek\u00e4 nuorten \u00e4\u00e4nien voimaa.\n\nKuulijoille terveisi\u00e4: teko\u00e4ly ei ole vain tekninen mullistus, vaan samalla mahdollisuus rakentaa uusia aitoja yhteyksi\u00e4 ja sis\u00e4lt\u00f6j\u00e4 yh\u00e4 monimuotoisemmin ja saavutettavammin. Inhimillinen ote ja l\u00e4pin\u00e4kyvyys j\u00e4\u00e4v\u00e4t silti aina kultaakin kalliimmaksi. \n\nSeuraa meit\u00e4 kanavissa \u2013 ja jatketaan keskustelua siit\u00e4, mihin suuntaan \u00e4\u00e4niaallon harja meid\u00e4t seuraavaksi vie! Kiitos kun kuuntelit ja kiitos vieraille viel\u00e4 kerran.\n\n[]",
+      "style": "neutral"
+    }
+  ],
+  "final_script": [
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Tervetuloa mukaan podcastiin \"\u00c4\u00e4niaallon Harjalla \u2013 Generatiivinen teko\u00e4ly muuttaa \u00e4\u00e4nimediat\"! Min\u00e4 olen Minna Rautio, ja t\u00e4n\u00e4\u00e4n sukellamme syv\u00e4lle aiheeseen, joka kuplii t\u00e4ll\u00e4 hetkell\u00e4 sek\u00e4 radioiden, podcast-tuottajien ett\u00e4 mainosratkaisujen p\u00f6ydill\u00e4: miten generatiivinen teko\u00e4ly ja uudet \u00e4\u00e4ninovaatiot muuttavat \u00e4\u00e4nimaailmaa sek\u00e4 sis\u00e4ll\u00f6n ett\u00e4 liiketoiminnan n\u00e4k\u00f6kulmasta?\n\nMeill\u00e4 on studiossa kaksi huippuasiantuntijaa, joilla on kokemusta sek\u00e4 teknisist\u00e4 mahdollisuuksista ett\u00e4 eettisist\u00e4 pohdinnoista:\n\nEnsimm\u00e4isen\u00e4 tervetuloa Petteri Lehtinen \u2013 kansainv\u00e4linen audio- ja teko\u00e4lyteknologian konsultti ja Wondercraft AI:n Euroopan myyntivastaava. Petteri, sulla on kyky tuoda data- ja bisnesn\u00e4k\u00f6kulmat ymm\u00e4rrett\u00e4v\u00e4sti arkeen. Mahtavaa saada sut mukaan!\n\nToisena vieraana on Mar\u00eda del Sol Fern\u00e1ndez, Grupo F\u00f3rmulan podcast-johtaja ja LatAm Audio AI -yhteis\u00f6n perustajaj\u00e4sen Meksikosta. Mar\u00eda tunnetaan luovana vision\u00e4\u00e4rin\u00e4 ja rohkeana eettisen keskustelun her\u00e4tt\u00e4j\u00e4n\u00e4, sek\u00e4 nuorisoradioiden teko\u00e4lyhankkeiden rautaisena vet\u00e4j\u00e4n\u00e4.\n\nT\u00e4n\u00e4\u00e4n puhumme siit\u00e4, mit\u00e4 AI oikeasti muuttaa \u00e4\u00e4nimediassa juuri nyt \u2014 ja mit\u00e4 kaikkea t\u00e4m\u00e4 tarkoittaa tuottajille, kuulijoille ja liiketoiminnalle. Tervetuloa mukaan, Petteri ja Mar\u00eda!\n\nL\u00e4hdet\u00e4\u00e4n heti liikkeelle:\nPetteri, mik\u00e4 sun mielest\u00e4 on n\u00e4kyvin ja konkreettisin muutos, kun generatiivinen teko\u00e4ly astuu radion, podcastien ja mainonnan tuotantoon?",
+      "style": "Iloinen, l\u00e4mmin ja innostunut juontajan \u00e4\u00e4ni, joka toivottaa vieraat tervetulleiksi ja pit\u00e4\u00e4 keskustelun rennon luontevana. Puheessa on selkeit\u00e4 painotuksia ja aitoa kiinnostusta aiheeseen.",
+      "start_time": 0,
+      "end_time": 65,
+      "duration": 65
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "T\u00e4h\u00e4n on helppo vastata: nopeus ja skaala! Generatiivinen teko\u00e4ly mahdollistaa nyt sellaista \u00e4\u00e4nisis\u00e4ll\u00f6n tuotantoa, joka ennen vaati tonnin aikaa, laitteita ja ihmisi\u00e4 \u2013 nyky\u00e4\u00e4n jakson tai mainoksen voi loihtia tekstist\u00e4 \u00e4\u00e4neksi minuuteissa. Lis\u00e4ksi voidaan personoida sis\u00e4lt\u00f6\u00e4 juuri tietyille kohderyhmille ja tehd\u00e4 k\u00e4\u00e4nn\u00f6ksi\u00e4 sek\u00e4 \u00e4\u00e4nik\u00e4\u00e4nn\u00f6ksi\u00e4 saumattomasti. Eli AI ei en\u00e4\u00e4 vain virtaviivaista vanhoja prosesseja, vaan avaa my\u00f6s ihan uudenlaisia liiketoimintamalleja, joista moni ei ollut edes mahdollinen pari vuotta sitten!",
+      "style": "Rento ja energinen asiantuntijan \u00e4\u00e4ni, jossa on innostusta ja hieman h\u00e4mm\u00e4styst\u00e4 nopeasta kehityksest\u00e4. Puheessa on luontevia painotuksia ja selke\u00e4, helposti ymm\u00e4rrett\u00e4v\u00e4 selitys.",
+      "start_time": 65,
+      "end_time": 92,
+      "duration": 27
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "T\u00e4ysin samaa mielt\u00e4 \u2013 t\u00e4m\u00e4 murros n\u00e4kyy todella vahvasti esimerkiksi Latinalaisessa Amerikassa, miss\u00e4 otetaan rohkeasti k\u00e4ytt\u00f6\u00f6n AI-pohjaisia juontajia ja automaatioratkaisuja. Mun n\u00e4k\u00f6kulmasta yksi iso muutos on, ett\u00e4 nuoret kuulijat saadaan kiinni, kun sis\u00e4lt\u00f6\u00e4 voidaan tehd\u00e4 niiden omalla kielell\u00e4 ja jopa omalla hassuttelutyylill\u00e4 \u2013 pelkk\u00e4 k\u00e4\u00e4nn\u00f6s ei en\u00e4\u00e4 riit\u00e4. Toinen puoli on se, ett\u00e4 AI mahdollistaa pienillekin toimijoille p\u00e4\u00e4syn koko maailman markkinoille, jos uskalletaan olla kulttuurisesti relevantteja ja rohkeita!",
+      "style": "Rohkea ja inspiroiva puhetyyli, jossa on vahvaa tunnetta ja innostusta. \u00c4\u00e4ness\u00e4 kuuluu sek\u00e4 asiantuntijuus ett\u00e4 aito intohimo kulttuurisia muutoksia kohtaan.",
+      "start_time": 92,
+      "end_time": 119,
+      "duration": 27
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "T\u00e4st\u00e4 p\u00e4\u00e4st\u00e4\u00e4nkin heti ytimeen: personointi, nopeus ja uudenlainen luovuus. Mutta nostitte molemmat my\u00f6s sen, ett\u00e4 teko\u00e4lyll\u00e4 voidaan r\u00e4\u00e4t\u00e4l\u00f6id\u00e4 sis\u00e4lt\u00f6\u00e4 kielen, kulttuurin ja jopa huumorin mukaan \u2013 ja tavoittaa yleis\u00f6j\u00e4, joita perinteinen radio ei ehk\u00e4 koskaan olisi saanut innostettua.\n\nKysynp\u00e4 Mar\u00eda sulta tarkennuksena: mill\u00e4 konkreettisilla tavoilla AI on mahdollistanut esimerkiksi Grupo F\u00f3rmulassa just nuorten yleis\u00f6jen tavoittamisen \u2013 voisitko antaa jonkin esimerkin? Ja miten kuulijat on reagoineet teko\u00e4lyjuontajaan, kuten NATiin?",
+      "style": "Juontajalle tyypillinen utelias ja l\u00e4mminhenkinen \u00e4\u00e4ni, jossa on vilpit\u00f6nt\u00e4 kiinnostusta vieraiden kokemuksiin. Puheessa on selkeit\u00e4 kysymyksi\u00e4 ja kannustava s\u00e4vy.",
+      "start_time": 119,
+      "end_time": 146,
+      "duration": 27
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "Meill\u00e4 Grupo F\u00f3rmulassa luotiin NAT, eli teko\u00e4lyll\u00e4 synnytetty nuorisolle suunnattu juontaja, joka tuo uutisia niiden omalla slangilla ja nopeassa formaatissa. NAT osaa k\u00e4ytt\u00e4\u00e4 meemej\u00e4 ja popkulttuuriviittauksia, joita perinteinen uutisradio ei ymm\u00e4rr\u00e4 \u2013 ja pystyy reagoimaan vaikka TikTok-trendeihin reaaliajassa, l\u00e4hes kellon ymp\u00e4ri.\n\nKuulijat on yll\u00e4tt\u00e4v\u00e4n positiivisia! Jotkut eiv\u00e4t edes tied\u00e4, ett\u00e4 kyseess\u00e4 on AI, vaan ajattelevat ett\u00e4 vain \"v\u00e4h\u00e4n erilainen juontaja\". Erityisesti nuoret arvostaa, ett\u00e4 jutut tuntuu kohdennetuilta \u2013 ja palaute on ollut, ett\u00e4 \u201ct\u00e4m\u00e4 on eka kerta kun radiouutiset tuntuvat ihan meid\u00e4n omilta, eik\u00e4 aikuisilta suunnatuilta\u201d. Eli aitouden tunne syntyy uudella tavalla \u2013 ja AI madaltaa kynnyst\u00e4 l\u00e4hte\u00e4 mukaan keskusteluun.",
+      "style": "V\u00e4rik\u00e4s ja el\u00e4ytyv\u00e4 puhetyyli, jossa on iloa ja ylpeytt\u00e4 onnistumisista. \u00c4\u00e4ness\u00e4 kuuluu aito innostus ja pient\u00e4 leikkisyytt\u00e4, erityisesti nuorten reaktioiden kohdalla.",
+      "start_time": 146,
+      "end_time": 186,
+      "duration": 40
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Tuo on aivan loistava havainto \u2013 kuulijakokemus voi olla aidosti rohkaiseva, vaikka taustalla on teko\u00e4ly! Petteri, haluan kysy\u00e4 sulta: miss\u00e4 kaikessa teko\u00e4ly tuo sun kokemuksen perusteella konkreettisesti operatiivista tehokkuutta \u2013 miss\u00e4 huomaatte arjessa isoimman s\u00e4\u00e4st\u00f6n tai ty\u00f6vaiheiden poiston, ja mihin taas AI ei viel\u00e4 kykene, jos katsotaan koko tuotantoketjua?",
+      "style": "Kuunteleva ja keskusteleva juontajan \u00e4\u00e4ni, jossa on kannustava ja hieman pohdiskeleva s\u00e4vy. Kysymyksiss\u00e4 on selke\u00e4 fokus ja aitoa halua syvent\u00e4\u00e4 keskustelua.",
+      "start_time": 186,
+      "end_time": 205,
+      "duration": 19
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "T\u00e4rkein tehokkuusloikka n\u00e4kyy sis\u00e4ll\u00f6ntuotannon automatisoinnissa: teko\u00e4ly tekee transkriptiot, editoinnin, melunpoiston ja vaikkapa sosiaaliseen mediaan sopivat klipit l\u00e4hes nappia painamalla. Esimerkiksi Wondercraftilla moni tuottaja sanoo, ett\u00e4 tunnin homma vie en\u00e4\u00e4 minuutin \u2013 ja \u00e4\u00e4nik\u00e4\u00e4nn\u00f6kset avaa nopeasti uudet yleis\u00f6t ilman kalliita studioita tai n\u00e4yttelij\u00f6it\u00e4.\n\nMihin AI ei viel\u00e4 t\u00e4ysin kykene? Ideoiden synty \u2013 sen \u201cluovan kipin\u00e4n\u201d her\u00e4tt\u00e4minen \u2013 vaatii yh\u00e4 inhimillist\u00e4 n\u00e4k\u00f6kulmaa. Syv\u00e4t, persoonalliset jutut ja aitous rakentuvat edelleen ihmisten ja teko\u00e4lyn yhteisty\u00f6ll\u00e4. Eli AI on tosi hyv\u00e4 apulainen, mutta ihmisen ote ja tuntuma on edelleen ratkaiseva, etenkin laadukkaan br\u00e4ndin rakentamisessa.",
+      "style": "Selke\u00e4sanainen ja rauhallinen asiantuntijan \u00e4\u00e4ni, jossa on ripaus innostusta teknologian mahdollisuuksista. Puheessa on my\u00f6s pohdiskeleva s\u00e4vy, kun puhutaan AI:n rajoista.",
+      "start_time": 205,
+      "end_time": 240,
+      "duration": 35
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Hyv\u00e4 nosto tuo \u201cluovan kipin\u00e4n\u201d s\u00e4ilytt\u00e4minen! Teko\u00e4ly hoitaa rutinoidut osa-alueet, mutta isoimmat oivallukset ja br\u00e4ndin persoonallisuus silti vaatii ihmist\u00e4.\n\nMar\u00eda, olet puhunut paljon eettisist\u00e4 ja kulttuurisista n\u00e4k\u00f6kulmista. Kun k\u00e4yt\u00f6ss\u00e4 on vaikka AI-\u00e4\u00e4nikloonit ja deepfaket, miten teill\u00e4 mietit\u00e4\u00e4n aitoutta ja luottamusta \u2013 onko keinoja varmistaa, ett\u00e4 kuulijat tiet\u00e4v\u00e4t mik\u00e4 on koneen ja mik\u00e4 aidon ihmisen luomaa?",
+      "style": "Avoin ja pohdiskeleva juontajan \u00e4\u00e4ni, jossa on aitoa kiinnostusta eettisiin kysymyksiin. Puheessa on rauhallinen, mutta vakuuttava s\u00e4vy.",
+      "start_time": 240,
+      "end_time": 263,
+      "duration": 23
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "T\u00e4\u00e4 on todella t\u00e4rke\u00e4 teema! Meill\u00e4 on linjana, ett\u00e4 kuulijoille kerrotaan avoimesti, kun k\u00e4ytet\u00e4\u00e4n AI-juontajaa tai syntetisoitua \u00e4\u00e4nt\u00e4 \u2013 esimerkiksi NATin tapauksessa mainitaan selv\u00e4sti, ett\u00e4 kyseess\u00e4 on teko\u00e4lyjuontaja. Transparentsi on kaiken a ja o.\n\nLis\u00e4ksi k\u00e4yd\u00e4\u00e4n jatkuvaa keskustelua tiimiss\u00e4: miss\u00e4 menee raja, miss\u00e4 halutaan pit\u00e4\u00e4 inhimillinen kosketus, ja miss\u00e4 AI voi leikitell\u00e4 vapaammin. Ja me my\u00f6s ker\u00e4t\u00e4\u00e4n kuulijoiden palautetta jatkuvasti, koska heid\u00e4n reaktiot kertoo paljon aitouden kokemuksesta. Meill\u00e4 ajatus on, ett\u00e4 AI:n pit\u00e4\u00e4 palvella yhteis\u00f6\u00e4 \u2013 ei vain kokeilla teknologiaa sen itsens\u00e4 takia.",
+      "style": "Vakuuttava ja l\u00e4mmin \u00e4\u00e4ni, jossa on selke\u00e4\u00e4 eettist\u00e4 pohdintaa ja vastuullisuutta. Puheessa on rauhallinen, mutta m\u00e4\u00e4r\u00e4tietoinen s\u00e4vy.",
+      "start_time": 263,
+      "end_time": 297,
+      "duration": 34
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Tuo jatkuva palautteen ker\u00e4\u00e4minen on kiinnostavaa \u2013 v\u00e4h\u00e4n samoin kuin lehtitaloissa mietit\u00e4\u00e4n, mik\u00e4 uutisotsikoissa her\u00e4tt\u00e4\u00e4 luottamusta. Petteri, miten \u00e4\u00e4nen kloonaus ja deepfaket n\u00e4kyv\u00e4t nyt Euroopassa eettisest\u00e4 ja juridisesta n\u00e4k\u00f6kulmasta? Miten alan isot toimijat, vaikka Spotify tai Bauer Media, pyrkiv\u00e4t hallitsemaan n\u00e4it\u00e4 riskej\u00e4 ja miss\u00e4 menn\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6ss\u00e4?",
+      "style": "Asiallinen ja hieman utelias juontajan \u00e4\u00e4ni, joka johdattelee keskustelua syvemm\u00e4lle eettisiin ja juridisiin kysymyksiin. \u00c4\u00e4ness\u00e4 on kiinnostusta ja selkeytt\u00e4.",
+      "start_time": 297,
+      "end_time": 315,
+      "duration": 18
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "Nyt on p\u00e4\u00e4ll\u00e4 voimakas tarkennus eettisiin pelis\u00e4\u00e4nt\u00f6ihin. Esimerkiksi Spotify vaatii vuonna 2025, ett\u00e4 AI-kloonatut biisit ja \u00e4\u00e4net pit\u00e4\u00e4 merkit\u00e4 selke\u00e4sti ja piilottamattomat deepfaket poistetaan. Toistuvista rikkomuksista voi l\u00e4hte\u00e4 koko tili j\u00e4\u00e4hylle. Bauer Media taas panostaa aktiivisesti henkil\u00f6st\u00f6n teko\u00e4lykoulutukseen ja rakentaa omia eettisi\u00e4 k\u00e4yt\u00e4nt\u00f6j\u00e4: avoimuutta, sis\u00e4ist\u00e4 ohjeistusta ja sit\u00e4, ett\u00e4 tiedet\u00e4\u00e4n aina mist\u00e4 \u00e4\u00e4nisis\u00e4lt\u00f6 tulee.\n\nK\u00e4yt\u00e4nn\u00f6ss\u00e4 suurimmat riskit liittyy aitouden menetykseen ja IP-oikeuksiin \u2013 esimerkiksi artistien \u00e4\u00e4nien v\u00e4\u00e4rink\u00e4ytt\u00f6\u00f6n tai uutisten manipulaatioihin. Isoissa taloissa ollaan nyt paljon varovaisempia ja l\u00e4pin\u00e4kyv\u00e4mpi\u00e4 kuin vuosi sitten \u2013 mutta t\u00e4m\u00e4 kentt\u00e4 kehittyy jatkuvasti. Eettiset periaatteet eiv\u00e4t ole en\u00e4\u00e4 vain sanahelin\u00e4\u00e4, vaan ihan keskeinen osa strategiaa!",
+      "style": "Asiantunteva ja hieman painottava \u00e4\u00e4ni, jossa on vastuullisuutta ja vakavuutta, mutta my\u00f6s optimismia alan kehityksest\u00e4. Puheessa on selkeit\u00e4 esimerkkej\u00e4 ja rauhallista selityst\u00e4.",
+      "start_time": 315,
+      "end_time": 355,
+      "duration": 40
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Aivan! Eli nyt teko\u00e4lyn hy\u00f6dynt\u00e4minen vaatii yrityksilt\u00e4 aidosti uusia toimintatapoja, eik\u00e4 pelk\u00e4st\u00e4\u00e4n teknologista innostusta. Haluan nostaa esiin my\u00f6s kuulijakokemuksen: Petteri, miten generatiivinen teko\u00e4ly auttaa rakentamaan yksil\u00f6llisempi\u00e4 ja kiinnostavampia audiopalveluita, esimerkiksi musiikissa, podcasteissa tai uutisissa? Onko n\u00e4ht\u00e4viss\u00e4 konkreettisia esimerkkej\u00e4, miss\u00e4 personointi on tuonut selkeit\u00e4 tuloksia?",
+      "style": "Innostunut ja eteenp\u00e4in katsova juontajan \u00e4\u00e4ni, jossa on aitoa kiinnostusta k\u00e4yt\u00e4nn\u00f6n esimerkkeihin. Puheessa on energinen ja kannustava s\u00e4vy.",
+      "start_time": 355,
+      "end_time": 373,
+      "duration": 18
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "Totta kai! Ehk\u00e4 konkreettisin esimerkki on Spotifyn AI-soittolistat ja r\u00e4\u00e4t\u00e4l\u00f6idyt radiokanavat, jotka muodostuvat ihan k\u00e4ytt\u00e4j\u00e4n hetkellisest\u00e4 fiiliksest\u00e4 tai kehotteesta \u2013 \u201cenergiaa t\u00e4lle maanantaille\u201d, \u201cnyt tekee mieli suomalaista r\u00e4ppi\u00e4\u201d, jne. Podcastien puolella teko\u00e4ly voi leipoa juuri sulle sopivan keston ja sis\u00e4ll\u00f6n, tai jakaa \u201cherkkupalat\u201d jaksoista, joita s\u00e4 haluat. Uutisissa taas pystyt\u00e4\u00e4n tarjoamaan kuuntelijalle priorisoitu uutisvirta kiinnostusten ja ajankohdan mukaan.\n\nTulokset n\u00e4kyy konkreettisesti siten, ett\u00e4 kuuntelijat viett\u00e4v\u00e4t enemm\u00e4n aikaa palvelussa ja palaavat useammin \u2013 sek\u00e4 antavat todella positiivista palautetta siit\u00e4, ett\u00e4 \u201ct\u00e4m\u00e4h\u00e4n on kuin mulle tehty!\u201d. Eli personoinnista tulee kilpailuetu, koska en\u00e4\u00e4 ei tyrkytet\u00e4 massasis\u00e4lt\u00f6\u00e4, vaan pysyt\u00e4\u00e4n aidosti relevantteina yksil\u00f6lle.",
+      "style": "V\u00e4rik\u00e4s ja innostunut asiantuntijan \u00e4\u00e4ni, jossa on selkeit\u00e4 esimerkkej\u00e4 ja my\u00f6nteist\u00e4 energiaa. Puheessa on luontevaa vuorovaikutteisuutta ja aitoa ylpeytt\u00e4 kehityksest\u00e4.",
+      "start_time": 373,
+      "end_time": 412,
+      "duration": 39
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Hyv\u00e4 esimerkki siit\u00e4, miten AI ei ole pelk\u00e4st\u00e4\u00e4n tehokkuuden moottori, vaan my\u00f6s kuuntelijan arjen henkil\u00f6kohtaistaja! Mar\u00eda, miten Latinalaisessa Amerikassa ja esimerkiksi nuorten ryhmiss\u00e4 personointi n\u00e4kyy? Ja onko siell\u00e4 jo havaittu tyytym\u00e4tt\u00f6myytt\u00e4, jos sis\u00e4lt\u00f6 tuntuu liian \u201ckoneelta\u201d tai ylioptimoidulta \u2013 eli onko joskus ylitetty hyv\u00e4n maun raja personoinnissa?",
+      "style": "Kannustava ja utelias juontajan \u00e4\u00e4ni, jossa on aitoa kiinnostusta kansainv\u00e4lisiin n\u00e4k\u00f6kulmiin. Puheessa on rentoutta ja yst\u00e4v\u00e4llisyytt\u00e4.",
+      "start_time": 412,
+      "end_time": 431,
+      "duration": 19
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "Todella hyv\u00e4 kysymys! Latinalaisessa Amerikassa nuoret odottavat jo, ett\u00e4 sis\u00e4lt\u00f6 \u201cpuhuu heid\u00e4n maailmastaan\u201d \u2013 eli personointi on enemm\u00e4n kuin vain musikillinen ehdotus, vaan kokonainen \u201cviba\u201d. Jos AI alkaa tarjota liian geneerist\u00e4, tyls\u00e4\u00e4 tai \u201camerikkalaista\u201d setti\u00e4, jengi kyll\u00e4styy nopeasti.\n\nOn ollut my\u00f6s hetki\u00e4, jolloin hyperpersonointi meni liikaa \u201calgoritmin makuun\u201d \u2013 silloin palautetta tulee heti, ett\u00e4 \u201cnyt tuntuu feikilt\u00e4\u201d tai \u201cm\u00e4 en oo mik\u00e4\u00e4n datarivi\u201d. Siksi meid\u00e4n pit\u00e4\u00e4 jatkuvasti balanssoida aitouden ja personoinnin v\u00e4lill\u00e4: AI saa auttaa, mutta br\u00e4ndin pit\u00e4\u00e4 s\u00e4ily\u00e4 inhimillisen\u00e4 ja osuvana. Ne, ketk\u00e4 osaa yhdist\u00e4\u00e4 oikean fiiliksen ja teknologian, voittaa nuoret puolelleen!",
+      "style": "Nopea ja el\u00e4v\u00e4inen puhetyyli, jossa on nuorekasta energiaa ja ripaus huumoria. \u00c4\u00e4ness\u00e4 kuuluu sek\u00e4 asiantuntijuus ett\u00e4 aito ymm\u00e4rrys nuorten yleis\u00f6st\u00e4.",
+      "start_time": 431,
+      "end_time": 468,
+      "duration": 37
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Juuri n\u00e4in \u2013 algoritmi voi olla viisas apuri, mutta ihmisyyden tunnetta yleis\u00f6 vaatii edelleen! Petteri, palataan hetkeksi tuohon arjen ty\u00f6kaluihin. Mit\u00e4 AI-ty\u00f6kaluja s\u00e4 n\u00e4et, ett\u00e4 on jo arkea suomalaisissa radio- ja podcast-tuotannoissa, ja mit\u00e4 pid\u00e4t seuraavana \u201cuutta aaltoa\u201d \u2013 onko esimerkiksi virtuaalijuontajat, automaattinen sis\u00e4ll\u00f6n dubbaus tai deepfake-k\u00e4\u00e4nn\u00f6kset pian valtavirtaa?",
+      "style": "Rento ja keskusteleva juontajan \u00e4\u00e4ni, jossa on selke\u00e4\u00e4 uteliaisuutta tulevaisuuden teknologioihin. Puheessa on innostavia painotuksia.",
+      "start_time": 468,
+      "end_time": 488,
+      "duration": 20
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "Suomessa isoimmat arjen ty\u00f6kalut liittyy jo \u00e4\u00e4nen automaattiseen puhdistukseen, editointiin ja transkriptioon \u2013 esim. Descript ja Wondercraftin kaltaiset palvelut ovat hyvin k\u00e4yt\u00f6ss\u00e4. Podcastien uudelleenk\u00e4ytt\u00f6\u00e4 tehostaa AI, joka silppuaa jaksot someklippeihin sekunneissa.\n\nSeuraava aalto? Virtuaalijuontajat ja \u00e4\u00e4nenkloonaukset siirtyy nopeasti testivaiheesta tuotantoon \u2013 ja automaattinen dubbaus eri kielille tulee yll\u00e4tt\u00e4v\u00e4n nopeasti mainstreamiksi, kun kansainv\u00e4listyminen kiihtyy. Deepfake-teknologian kanssa ollaan kyll\u00e4 viel\u00e4 tarkkana, mutta isot yhti\u00f6t kokeilevat jo \u201cturvallisia\u201d k\u00e4ytt\u00f6tapauksia, kuten br\u00e4ndin ohjattua \u00e4\u00e4nibr\u00e4nd\u00e4yst\u00e4 tai nopeita k\u00e4\u00e4nn\u00f6ksi\u00e4 ilman studioa. Eli sanoisin, ett\u00e4 vuoden-parin sis\u00e4\u00e4n n\u00e4m\u00e4 ovat arkea monelle suomalaisellekin mediatalolle!",
+      "style": "Asiantunteva ja tulevaisuuteen katsova \u00e4\u00e4ni, jossa on innostusta ja pient\u00e4 varovaisuutta uusien teknologioiden suhteen. Puheessa on selkeit\u00e4, helposti seurattavia esimerkkej\u00e4.",
+      "start_time": 488,
+      "end_time": 523,
+      "duration": 35
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "T\u00e4m\u00e4 on ollut aivan loistava keskustelu \u2013 teid\u00e4n molempien n\u00e4kemykset on tuoneet sek\u00e4 konkretiaa ett\u00e4 suuria visioita siihen, mit\u00e4 generatiivinen teko\u00e4ly tarkoittaa \u00e4\u00e4nimedian arjessa ja tulevaisuudessa. Kiitos Petteri Lehtinen, kun avasit teknologian mahdollisuuksia ja liiketoiminnan konkreettisia hy\u00f6tyj\u00e4! Ja suuret kiitokset Mar\u00eda del Sol Fern\u00e1ndez, kun toit mukaan rohkeutta, kulttuurisia nyansseja ja eettist\u00e4 n\u00e4k\u00f6kulmaa sek\u00e4 nuorten \u00e4\u00e4nien voimaa.\n\nKuulijoille terveisi\u00e4: teko\u00e4ly ei ole vain tekninen mullistus, vaan samalla mahdollisuus rakentaa uusia aitoja yhteyksi\u00e4 ja sis\u00e4lt\u00f6j\u00e4 yh\u00e4 monimuotoisemmin ja saavutettavammin. Inhimillinen ote ja l\u00e4pin\u00e4kyvyys j\u00e4\u00e4v\u00e4t silti aina kultaakin kalliimmaksi.\n\nSeuraa meit\u00e4 kanavissa \u2013 ja jatketaan keskustelua siit\u00e4, mihin suuntaan \u00e4\u00e4niaallon harja meid\u00e4t seuraavaksi vie! Kiitos kun kuuntelit ja kiitos vieraille viel\u00e4 kerran.",
+      "style": "L\u00e4mmin, kiitollinen ja innostava juontajan \u00e4\u00e4ni, jossa on yhteenvetoa ja kannustusta jatkaa keskustelua. \u00c4\u00e4ness\u00e4 on yst\u00e4v\u00e4llinen ja hyv\u00e4ntuulinen s\u00e4vy.",
+      "start_time": 523,
+      "end_time": 567,
+      "duration": 44
+    }
+  ],
+  "audio_info": {
+    "voice_selections": {
+      "Minna_Rautio": "alloy",
+      "Petteri_Lehtinen": "echo",
+      "Maria_del_Sol_Fernandez": "nova"
+    },
+    "TTS_engine": "gpt-4o-mini-tts"
+  },
+  "audio_speech": [
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Tervetuloa mukaan podcastiin \"\u00c4\u00e4niaallon Harjalla \u2013 Generatiivinen teko\u00e4ly muuttaa \u00e4\u00e4nimediat\"! Min\u00e4 olen Minna Rautio, ja t\u00e4n\u00e4\u00e4n sukellamme syv\u00e4lle aiheeseen, joka kuplii t\u00e4ll\u00e4 hetkell\u00e4 sek\u00e4 radioiden, podcast-tuottajien ett\u00e4 mainosratkaisujen p\u00f6ydill\u00e4: miten generatiivinen teko\u00e4ly ja uudet \u00e4\u00e4ninovaatiot muuttavat \u00e4\u00e4nimaailmaa sek\u00e4 sis\u00e4ll\u00f6n ett\u00e4 liiketoiminnan n\u00e4k\u00f6kulmasta?\n\nMeill\u00e4 on studiossa kaksi huippuasiantuntijaa, joilla on kokemusta sek\u00e4 teknisist\u00e4 mahdollisuuksista ett\u00e4 eettisist\u00e4 pohdinnoista:\n\nEnsimm\u00e4isen\u00e4 tervetuloa Petteri Lehtinen \u2013 kansainv\u00e4linen audio- ja teko\u00e4lyteknologian konsultti ja Wondercraft AI:n Euroopan myyntivastaava. Petteri, sulla on kyky tuoda data- ja bisnesn\u00e4k\u00f6kulmat ymm\u00e4rrett\u00e4v\u00e4sti arkeen. Mahtavaa saada sut mukaan!\n\nToisena vieraana on Mar\u00eda del Sol Fern\u00e1ndez, Grupo F\u00f3rmulan podcast-johtaja ja LatAm Audio AI -yhteis\u00f6n perustajaj\u00e4sen Meksikosta. Mar\u00eda tunnetaan luovana vision\u00e4\u00e4rin\u00e4 ja rohkeana eettisen keskustelun her\u00e4tt\u00e4j\u00e4n\u00e4, sek\u00e4 nuorisoradioiden teko\u00e4lyhankkeiden rautaisena vet\u00e4j\u00e4n\u00e4.\n\nT\u00e4n\u00e4\u00e4n puhumme siit\u00e4, mit\u00e4 AI oikeasti muuttaa \u00e4\u00e4nimediassa juuri nyt \u2014 ja mit\u00e4 kaikkea t\u00e4m\u00e4 tarkoittaa tuottajille, kuulijoille ja liiketoiminnalle. Tervetuloa mukaan, Petteri ja Mar\u00eda!\n\nL\u00e4hdet\u00e4\u00e4n heti liikkeelle:\nPetteri, mik\u00e4 sun mielest\u00e4 on n\u00e4kyvin ja konkreettisin muutos, kun generatiivinen teko\u00e4ly astuu radion, podcastien ja mainonnan tuotantoon?",
+      "style": "Iloinen, l\u00e4mmin ja innostunut juontajan \u00e4\u00e4ni, joka toivottaa vieraat tervetulleiksi ja pit\u00e4\u00e4 keskustelun rennon luontevana. Puheessa on selkeit\u00e4 painotuksia ja aitoa kiinnostusta aiheeseen.",
+      "start_time": 0,
+      "end_time": 91.8,
+      "duration": 91.8,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_1_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "T\u00e4h\u00e4n on helppo vastata: nopeus ja skaala! Generatiivinen teko\u00e4ly mahdollistaa nyt sellaista \u00e4\u00e4nisis\u00e4ll\u00f6n tuotantoa, joka ennen vaati tonnin aikaa, laitteita ja ihmisi\u00e4 \u2013 nyky\u00e4\u00e4n jakson tai mainoksen voi loihtia tekstist\u00e4 \u00e4\u00e4neksi minuuteissa. Lis\u00e4ksi voidaan personoida sis\u00e4lt\u00f6\u00e4 juuri tietyille kohderyhmille ja tehd\u00e4 k\u00e4\u00e4nn\u00f6ksi\u00e4 sek\u00e4 \u00e4\u00e4nik\u00e4\u00e4nn\u00f6ksi\u00e4 saumattomasti. Eli AI ei en\u00e4\u00e4 vain virtaviivaista vanhoja prosesseja, vaan avaa my\u00f6s ihan uudenlaisia liiketoimintamalleja, joista moni ei ollut edes mahdollinen pari vuotta sitten!",
+      "style": "Rento ja energinen asiantuntijan \u00e4\u00e4ni, jossa on innostusta ja hieman h\u00e4mm\u00e4styst\u00e4 nopeasta kehityksest\u00e4. Puheessa on luontevia painotuksia ja selke\u00e4, helposti ymm\u00e4rrett\u00e4v\u00e4 selitys.",
+      "start_time": 92.6,
+      "end_time": 126.752,
+      "duration": 34.152,
+      "voice": "echo",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_2_Petteri_Lehtinen.wav"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "T\u00e4ysin samaa mielt\u00e4 \u2013 t\u00e4m\u00e4 murros n\u00e4kyy todella vahvasti esimerkiksi Latinalaisessa Amerikassa, miss\u00e4 otetaan rohkeasti k\u00e4ytt\u00f6\u00f6n AI-pohjaisia juontajia ja automaatioratkaisuja. Mun n\u00e4k\u00f6kulmasta yksi iso muutos on, ett\u00e4 nuoret kuulijat saadaan kiinni, kun sis\u00e4lt\u00f6\u00e4 voidaan tehd\u00e4 niiden omalla kielell\u00e4 ja jopa omalla hassuttelutyylill\u00e4 \u2013 pelkk\u00e4 k\u00e4\u00e4nn\u00f6s ei en\u00e4\u00e4 riit\u00e4. Toinen puoli on se, ett\u00e4 AI mahdollistaa pienillekin toimijoille p\u00e4\u00e4syn koko maailman markkinoille, jos uskalletaan olla kulttuurisesti relevantteja ja rohkeita!",
+      "style": "Rohkea ja inspiroiva puhetyyli, jossa on vahvaa tunnetta ja innostusta. \u00c4\u00e4ness\u00e4 kuuluu sek\u00e4 asiantuntijuus ett\u00e4 aito intohimo kulttuurisia muutoksia kohtaan.",
+      "start_time": 127.55199999999999,
+      "end_time": 160.816,
+      "duration": 33.264,
+      "voice": "nova",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_3_Maria_del_Sol_Fernandez.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "T\u00e4st\u00e4 p\u00e4\u00e4st\u00e4\u00e4nkin heti ytimeen: personointi, nopeus ja uudenlainen luovuus. Mutta nostitte molemmat my\u00f6s sen, ett\u00e4 teko\u00e4lyll\u00e4 voidaan r\u00e4\u00e4t\u00e4l\u00f6id\u00e4 sis\u00e4lt\u00f6\u00e4 kielen, kulttuurin ja jopa huumorin mukaan \u2013 ja tavoittaa yleis\u00f6j\u00e4, joita perinteinen radio ei ehk\u00e4 koskaan olisi saanut innostettua.\n\nKysynp\u00e4 Mar\u00eda sulta tarkennuksena: mill\u00e4 konkreettisilla tavoilla AI on mahdollistanut esimerkiksi Grupo F\u00f3rmulassa just nuorten yleis\u00f6jen tavoittamisen \u2013 voisitko antaa jonkin esimerkin? Ja miten kuulijat on reagoineet teko\u00e4lyjuontajaan, kuten NATiin?",
+      "style": "Juontajalle tyypillinen utelias ja l\u00e4mminhenkinen \u00e4\u00e4ni, jossa on vilpit\u00f6nt\u00e4 kiinnostusta vieraiden kokemuksiin. Puheessa on selkeit\u00e4 kysymyksi\u00e4 ja kannustava s\u00e4vy.",
+      "start_time": 161.61599999999999,
+      "end_time": 196.224,
+      "duration": 34.608,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_4_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "Meill\u00e4 Grupo F\u00f3rmulassa luotiin NAT, eli teko\u00e4lyll\u00e4 synnytetty nuorisolle suunnattu juontaja, joka tuo uutisia niiden omalla slangilla ja nopeassa formaatissa. NAT osaa k\u00e4ytt\u00e4\u00e4 meemej\u00e4 ja popkulttuuriviittauksia, joita perinteinen uutisradio ei ymm\u00e4rr\u00e4 \u2013 ja pystyy reagoimaan vaikka TikTok-trendeihin reaaliajassa, l\u00e4hes kellon ymp\u00e4ri.\n\nKuulijat on yll\u00e4tt\u00e4v\u00e4n positiivisia! Jotkut eiv\u00e4t edes tied\u00e4, ett\u00e4 kyseess\u00e4 on AI, vaan ajattelevat ett\u00e4 vain \"v\u00e4h\u00e4n erilainen juontaja\". Erityisesti nuoret arvostaa, ett\u00e4 jutut tuntuu kohdennetuilta \u2013 ja palaute on ollut, ett\u00e4 \u201ct\u00e4m\u00e4 on eka kerta kun radiouutiset tuntuvat ihan meid\u00e4n omilta, eik\u00e4 aikuisilta suunnatuilta\u201d. Eli aitouden tunne syntyy uudella tavalla \u2013 ja AI madaltaa kynnyst\u00e4 l\u00e4hte\u00e4 mukaan keskusteluun.",
+      "style": "V\u00e4rik\u00e4s ja el\u00e4ytyv\u00e4 puhetyyli, jossa on iloa ja ylpeytt\u00e4 onnistumisista. \u00c4\u00e4ness\u00e4 kuuluu aito innostus ja pient\u00e4 leikkisyytt\u00e4, erityisesti nuorten reaktioiden kohdalla.",
+      "start_time": 197.02399999999997,
+      "end_time": 246.39199999999997,
+      "duration": 49.368,
+      "voice": "nova",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_5_Maria_del_Sol_Fernandez.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Tuo on aivan loistava havainto \u2013 kuulijakokemus voi olla aidosti rohkaiseva, vaikka taustalla on teko\u00e4ly! Petteri, haluan kysy\u00e4 sulta: miss\u00e4 kaikessa teko\u00e4ly tuo sun kokemuksen perusteella konkreettisesti operatiivista tehokkuutta \u2013 miss\u00e4 huomaatte arjessa isoimman s\u00e4\u00e4st\u00f6n tai ty\u00f6vaiheiden poiston, ja mihin taas AI ei viel\u00e4 kykene, jos katsotaan koko tuotantoketjua?",
+      "style": "Kuunteleva ja keskusteleva juontajan \u00e4\u00e4ni, jossa on kannustava ja hieman pohdiskeleva s\u00e4vy. Kysymyksiss\u00e4 on selke\u00e4 fokus ja aitoa halua syvent\u00e4\u00e4 keskustelua.",
+      "start_time": 247.19199999999998,
+      "end_time": 270.712,
+      "duration": 23.52,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_6_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "T\u00e4rkein tehokkuusloikka n\u00e4kyy sis\u00e4ll\u00f6ntuotannon automatisoinnissa: teko\u00e4ly tekee transkriptiot, editoinnin, melunpoiston ja vaikkapa sosiaaliseen mediaan sopivat klipit l\u00e4hes nappia painamalla. Esimerkiksi Wondercraftilla moni tuottaja sanoo, ett\u00e4 tunnin homma vie en\u00e4\u00e4 minuutin \u2013 ja \u00e4\u00e4nik\u00e4\u00e4nn\u00f6kset avaa nopeasti uudet yleis\u00f6t ilman kalliita studioita tai n\u00e4yttelij\u00f6it\u00e4.\n\nMihin AI ei viel\u00e4 t\u00e4ysin kykene? Ideoiden synty \u2013 sen \u201cluovan kipin\u00e4n\u201d her\u00e4tt\u00e4minen \u2013 vaatii yh\u00e4 inhimillist\u00e4 n\u00e4k\u00f6kulmaa. Syv\u00e4t, persoonalliset jutut ja aitous rakentuvat edelleen ihmisten ja teko\u00e4lyn yhteisty\u00f6ll\u00e4. Eli AI on tosi hyv\u00e4 apulainen, mutta ihmisen ote ja tuntuma on edelleen ratkaiseva, etenkin laadukkaan br\u00e4ndin rakentamisessa.",
+      "style": "Selke\u00e4sanainen ja rauhallinen asiantuntijan \u00e4\u00e4ni, jossa on ripaus innostusta teknologian mahdollisuuksista. Puheessa on my\u00f6s pohdiskeleva s\u00e4vy, kun puhutaan AI:n rajoista.",
+      "start_time": 271.512,
+      "end_time": 319.032,
+      "duration": 47.52,
+      "voice": "echo",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_7_Petteri_Lehtinen.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Hyv\u00e4 nosto tuo \u201cluovan kipin\u00e4n\u201d s\u00e4ilytt\u00e4minen! Teko\u00e4ly hoitaa rutinoidut osa-alueet, mutta isoimmat oivallukset ja br\u00e4ndin persoonallisuus silti vaatii ihmist\u00e4.\n\nMar\u00eda, olet puhunut paljon eettisist\u00e4 ja kulttuurisista n\u00e4k\u00f6kulmista. Kun k\u00e4yt\u00f6ss\u00e4 on vaikka AI-\u00e4\u00e4nikloonit ja deepfaket, miten teill\u00e4 mietit\u00e4\u00e4n aitoutta ja luottamusta \u2013 onko keinoja varmistaa, ett\u00e4 kuulijat tiet\u00e4v\u00e4t mik\u00e4 on koneen ja mik\u00e4 aidon ihmisen luomaa?",
+      "style": "Avoin ja pohdiskeleva juontajan \u00e4\u00e4ni, jossa on aitoa kiinnostusta eettisiin kysymyksiin. Puheessa on rauhallinen, mutta vakuuttava s\u00e4vy.",
+      "start_time": 319.832,
+      "end_time": 347.0,
+      "duration": 27.168,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_8_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "T\u00e4\u00e4 on todella t\u00e4rke\u00e4 teema! Meill\u00e4 on linjana, ett\u00e4 kuulijoille kerrotaan avoimesti, kun k\u00e4ytet\u00e4\u00e4n AI-juontajaa tai syntetisoitua \u00e4\u00e4nt\u00e4 \u2013 esimerkiksi NATin tapauksessa mainitaan selv\u00e4sti, ett\u00e4 kyseess\u00e4 on teko\u00e4lyjuontaja. Transparentsi on kaiken a ja o.\n\nLis\u00e4ksi k\u00e4yd\u00e4\u00e4n jatkuvaa keskustelua tiimiss\u00e4: miss\u00e4 menee raja, miss\u00e4 halutaan pit\u00e4\u00e4 inhimillinen kosketus, ja miss\u00e4 AI voi leikitell\u00e4 vapaammin. Ja me my\u00f6s ker\u00e4t\u00e4\u00e4n kuulijoiden palautetta jatkuvasti, koska heid\u00e4n reaktiot kertoo paljon aitouden kokemuksesta. Meill\u00e4 ajatus on, ett\u00e4 AI:n pit\u00e4\u00e4 palvella yhteis\u00f6\u00e4 \u2013 ei vain kokeilla teknologiaa sen itsens\u00e4 takia.",
+      "style": "Vakuuttava ja l\u00e4mmin \u00e4\u00e4ni, jossa on selke\u00e4\u00e4 eettist\u00e4 pohdintaa ja vastuullisuutta. Puheessa on rauhallinen, mutta m\u00e4\u00e4r\u00e4tietoinen s\u00e4vy.",
+      "start_time": 347.8,
+      "end_time": 388.81600000000003,
+      "duration": 41.016,
+      "voice": "nova",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_9_Maria_del_Sol_Fernandez.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Tuo jatkuva palautteen ker\u00e4\u00e4minen on kiinnostavaa \u2013 v\u00e4h\u00e4n samoin kuin lehtitaloissa mietit\u00e4\u00e4n, mik\u00e4 uutisotsikoissa her\u00e4tt\u00e4\u00e4 luottamusta. Petteri, miten \u00e4\u00e4nen kloonaus ja deepfaket n\u00e4kyv\u00e4t nyt Euroopassa eettisest\u00e4 ja juridisesta n\u00e4k\u00f6kulmasta? Miten alan isot toimijat, vaikka Spotify tai Bauer Media, pyrkiv\u00e4t hallitsemaan n\u00e4it\u00e4 riskej\u00e4 ja miss\u00e4 menn\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6ss\u00e4?",
+      "style": "Asiallinen ja hieman utelias juontajan \u00e4\u00e4ni, joka johdattelee keskustelua syvemm\u00e4lle eettisiin ja juridisiin kysymyksiin. \u00c4\u00e4ness\u00e4 on kiinnostusta ja selkeytt\u00e4.",
+      "start_time": 389.616,
+      "end_time": 413.976,
+      "duration": 24.36,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_10_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "Nyt on p\u00e4\u00e4ll\u00e4 voimakas tarkennus eettisiin pelis\u00e4\u00e4nt\u00f6ihin. Esimerkiksi Spotify vaatii vuonna 2025, ett\u00e4 AI-kloonatut biisit ja \u00e4\u00e4net pit\u00e4\u00e4 merkit\u00e4 selke\u00e4sti ja piilottamattomat deepfaket poistetaan. Toistuvista rikkomuksista voi l\u00e4hte\u00e4 koko tili j\u00e4\u00e4hylle. Bauer Media taas panostaa aktiivisesti henkil\u00f6st\u00f6n teko\u00e4lykoulutukseen ja rakentaa omia eettisi\u00e4 k\u00e4yt\u00e4nt\u00f6j\u00e4: avoimuutta, sis\u00e4ist\u00e4 ohjeistusta ja sit\u00e4, ett\u00e4 tiedet\u00e4\u00e4n aina mist\u00e4 \u00e4\u00e4nisis\u00e4lt\u00f6 tulee.\n\nK\u00e4yt\u00e4nn\u00f6ss\u00e4 suurimmat riskit liittyy aitouden menetykseen ja IP-oikeuksiin \u2013 esimerkiksi artistien \u00e4\u00e4nien v\u00e4\u00e4rink\u00e4ytt\u00f6\u00f6n tai uutisten manipulaatioihin. Isoissa taloissa ollaan nyt paljon varovaisempia ja l\u00e4pin\u00e4kyv\u00e4mpi\u00e4 kuin vuosi sitten \u2013 mutta t\u00e4m\u00e4 kentt\u00e4 kehittyy jatkuvasti. Eettiset periaatteet eiv\u00e4t ole en\u00e4\u00e4 vain sanahelin\u00e4\u00e4, vaan ihan keskeinen osa strategiaa!",
+      "style": "Asiantunteva ja hieman painottava \u00e4\u00e4ni, jossa on vastuullisuutta ja vakavuutta, mutta my\u00f6s optimismia alan kehityksest\u00e4. Puheessa on selkeit\u00e4 esimerkkej\u00e4 ja rauhallista selityst\u00e4.",
+      "start_time": 414.776,
+      "end_time": 468.896,
+      "duration": 54.12,
+      "voice": "echo",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_11_Petteri_Lehtinen.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Aivan! Eli nyt teko\u00e4lyn hy\u00f6dynt\u00e4minen vaatii yrityksilt\u00e4 aidosti uusia toimintatapoja, eik\u00e4 pelk\u00e4st\u00e4\u00e4n teknologista innostusta. Haluan nostaa esiin my\u00f6s kuulijakokemuksen: Petteri, miten generatiivinen teko\u00e4ly auttaa rakentamaan yksil\u00f6llisempi\u00e4 ja kiinnostavampia audiopalveluita, esimerkiksi musiikissa, podcasteissa tai uutisissa? Onko n\u00e4ht\u00e4viss\u00e4 konkreettisia esimerkkej\u00e4, miss\u00e4 personointi on tuonut selkeit\u00e4 tuloksia?",
+      "style": "Innostunut ja eteenp\u00e4in katsova juontajan \u00e4\u00e4ni, jossa on aitoa kiinnostusta k\u00e4yt\u00e4nn\u00f6n esimerkkeihin. Puheessa on energinen ja kannustava s\u00e4vy.",
+      "start_time": 469.696,
+      "end_time": 496.048,
+      "duration": 26.352,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_12_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "Totta kai! Ehk\u00e4 konkreettisin esimerkki on Spotifyn AI-soittolistat ja r\u00e4\u00e4t\u00e4l\u00f6idyt radiokanavat, jotka muodostuvat ihan k\u00e4ytt\u00e4j\u00e4n hetkellisest\u00e4 fiiliksest\u00e4 tai kehotteesta \u2013 \u201cenergiaa t\u00e4lle maanantaille\u201d, \u201cnyt tekee mieli suomalaista r\u00e4ppi\u00e4\u201d, jne. Podcastien puolella teko\u00e4ly voi leipoa juuri sulle sopivan keston ja sis\u00e4ll\u00f6n, tai jakaa \u201cherkkupalat\u201d jaksoista, joita s\u00e4 haluat. Uutisissa taas pystyt\u00e4\u00e4n tarjoamaan kuuntelijalle priorisoitu uutisvirta kiinnostusten ja ajankohdan mukaan.\n\nTulokset n\u00e4kyy konkreettisesti siten, ett\u00e4 kuuntelijat viett\u00e4v\u00e4t enemm\u00e4n aikaa palvelussa ja palaavat useammin \u2013 sek\u00e4 antavat todella positiivista palautetta siit\u00e4, ett\u00e4 \u201ct\u00e4m\u00e4h\u00e4n on kuin mulle tehty!\u201d. Eli personoinnista tulee kilpailuetu, koska en\u00e4\u00e4 ei tyrkytet\u00e4 massasis\u00e4lt\u00f6\u00e4, vaan pysyt\u00e4\u00e4n aidosti relevantteina yksil\u00f6lle.",
+      "style": "V\u00e4rik\u00e4s ja innostunut asiantuntijan \u00e4\u00e4ni, jossa on selkeit\u00e4 esimerkkej\u00e4 ja my\u00f6nteist\u00e4 energiaa. Puheessa on luontevaa vuorovaikutteisuutta ja aitoa ylpeytt\u00e4 kehityksest\u00e4.",
+      "start_time": 496.848,
+      "end_time": 550.296,
+      "duration": 53.448,
+      "voice": "echo",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_13_Petteri_Lehtinen.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Hyv\u00e4 esimerkki siit\u00e4, miten AI ei ole pelk\u00e4st\u00e4\u00e4n tehokkuuden moottori, vaan my\u00f6s kuuntelijan arjen henkil\u00f6kohtaistaja! Mar\u00eda, miten Latinalaisessa Amerikassa ja esimerkiksi nuorten ryhmiss\u00e4 personointi n\u00e4kyy? Ja onko siell\u00e4 jo havaittu tyytym\u00e4tt\u00f6myytt\u00e4, jos sis\u00e4lt\u00f6 tuntuu liian \u201ckoneelta\u201d tai ylioptimoidulta \u2013 eli onko joskus ylitetty hyv\u00e4n maun raja personoinnissa?",
+      "style": "Kannustava ja utelias juontajan \u00e4\u00e4ni, jossa on aitoa kiinnostusta kansainv\u00e4lisiin n\u00e4k\u00f6kulmiin. Puheessa on rentoutta ja yst\u00e4v\u00e4llisyytt\u00e4.",
+      "start_time": 551.096,
+      "end_time": 574.16,
+      "duration": 23.064,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_14_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Maria_del_Sol_Fernandez",
+      "text": "Todella hyv\u00e4 kysymys! Latinalaisessa Amerikassa nuoret odottavat jo, ett\u00e4 sis\u00e4lt\u00f6 \u201cpuhuu heid\u00e4n maailmastaan\u201d \u2013 eli personointi on enemm\u00e4n kuin vain musikillinen ehdotus, vaan kokonainen \u201cviba\u201d. Jos AI alkaa tarjota liian geneerist\u00e4, tyls\u00e4\u00e4 tai \u201camerikkalaista\u201d setti\u00e4, jengi kyll\u00e4styy nopeasti.\n\nOn ollut my\u00f6s hetki\u00e4, jolloin hyperpersonointi meni liikaa \u201calgoritmin makuun\u201d \u2013 silloin palautetta tulee heti, ett\u00e4 \u201cnyt tuntuu feikilt\u00e4\u201d tai \u201cm\u00e4 en oo mik\u00e4\u00e4n datarivi\u201d. Siksi meid\u00e4n pit\u00e4\u00e4 jatkuvasti balanssoida aitouden ja personoinnin v\u00e4lill\u00e4: AI saa auttaa, mutta br\u00e4ndin pit\u00e4\u00e4 s\u00e4ily\u00e4 inhimillisen\u00e4 ja osuvana. Ne, ketk\u00e4 osaa yhdist\u00e4\u00e4 oikean fiiliksen ja teknologian, voittaa nuoret puolelleen!",
+      "style": "Nopea ja el\u00e4v\u00e4inen puhetyyli, jossa on nuorekasta energiaa ja ripaus huumoria. \u00c4\u00e4ness\u00e4 kuuluu sek\u00e4 asiantuntijuus ett\u00e4 aito ymm\u00e4rrys nuorten yleis\u00f6st\u00e4.",
+      "start_time": 574.96,
+      "end_time": 618.3280000000001,
+      "duration": 43.368,
+      "voice": "nova",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_15_Maria_del_Sol_Fernandez.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "Juuri n\u00e4in \u2013 algoritmi voi olla viisas apuri, mutta ihmisyyden tunnetta yleis\u00f6 vaatii edelleen! Petteri, palataan hetkeksi tuohon arjen ty\u00f6kaluihin. Mit\u00e4 AI-ty\u00f6kaluja s\u00e4 n\u00e4et, ett\u00e4 on jo arkea suomalaisissa radio- ja podcast-tuotannoissa, ja mit\u00e4 pid\u00e4t seuraavana \u201cuutta aaltoa\u201d \u2013 onko esimerkiksi virtuaalijuontajat, automaattinen sis\u00e4ll\u00f6n dubbaus tai deepfake-k\u00e4\u00e4nn\u00f6kset pian valtavirtaa?",
+      "style": "Rento ja keskusteleva juontajan \u00e4\u00e4ni, jossa on selke\u00e4\u00e4 uteliaisuutta tulevaisuuden teknologioihin. Puheessa on innostavia painotuksia.",
+      "start_time": 619.128,
+      "end_time": 642.888,
+      "duration": 23.76,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_16_Minna_Rautio.wav"
+    },
+    {
+      "speaker": "Petteri_Lehtinen",
+      "text": "Suomessa isoimmat arjen ty\u00f6kalut liittyy jo \u00e4\u00e4nen automaattiseen puhdistukseen, editointiin ja transkriptioon \u2013 esim. Descript ja Wondercraftin kaltaiset palvelut ovat hyvin k\u00e4yt\u00f6ss\u00e4. Podcastien uudelleenk\u00e4ytt\u00f6\u00e4 tehostaa AI, joka silppuaa jaksot someklippeihin sekunneissa.\n\nSeuraava aalto? Virtuaalijuontajat ja \u00e4\u00e4nenkloonaukset siirtyy nopeasti testivaiheesta tuotantoon \u2013 ja automaattinen dubbaus eri kielille tulee yll\u00e4tt\u00e4v\u00e4n nopeasti mainstreamiksi, kun kansainv\u00e4listyminen kiihtyy. Deepfake-teknologian kanssa ollaan kyll\u00e4 viel\u00e4 tarkkana, mutta isot yhti\u00f6t kokeilevat jo \u201cturvallisia\u201d k\u00e4ytt\u00f6tapauksia, kuten br\u00e4ndin ohjattua \u00e4\u00e4nibr\u00e4nd\u00e4yst\u00e4 tai nopeita k\u00e4\u00e4nn\u00f6ksi\u00e4 ilman studioa. Eli sanoisin, ett\u00e4 vuoden-parin sis\u00e4\u00e4n n\u00e4m\u00e4 ovat arkea monelle suomalaisellekin mediatalolle!",
+      "style": "Asiantunteva ja tulevaisuuteen katsova \u00e4\u00e4ni, jossa on innostusta ja pient\u00e4 varovaisuutta uusien teknologioiden suhteen. Puheessa on selkeit\u00e4, helposti seurattavia esimerkkej\u00e4.",
+      "start_time": 643.6880000000001,
+      "end_time": 691.8560000000001,
+      "duration": 48.168,
+      "voice": "echo",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_17_Petteri_Lehtinen.wav"
+    },
+    {
+      "speaker": "Minna_Rautio",
+      "text": "T\u00e4m\u00e4 on ollut aivan loistava keskustelu \u2013 teid\u00e4n molempien n\u00e4kemykset on tuoneet sek\u00e4 konkretiaa ett\u00e4 suuria visioita siihen, mit\u00e4 generatiivinen teko\u00e4ly tarkoittaa \u00e4\u00e4nimedian arjessa ja tulevaisuudessa. Kiitos Petteri Lehtinen, kun avasit teknologian mahdollisuuksia ja liiketoiminnan konkreettisia hy\u00f6tyj\u00e4! Ja suuret kiitokset Mar\u00eda del Sol Fern\u00e1ndez, kun toit mukaan rohkeutta, kulttuurisia nyansseja ja eettist\u00e4 n\u00e4k\u00f6kulmaa sek\u00e4 nuorten \u00e4\u00e4nien voimaa.\n\nKuulijoille terveisi\u00e4: teko\u00e4ly ei ole vain tekninen mullistus, vaan samalla mahdollisuus rakentaa uusia aitoja yhteyksi\u00e4 ja sis\u00e4lt\u00f6j\u00e4 yh\u00e4 monimuotoisemmin ja saavutettavammin. Inhimillinen ote ja l\u00e4pin\u00e4kyvyys j\u00e4\u00e4v\u00e4t silti aina kultaakin kalliimmaksi.\n\nSeuraa meit\u00e4 kanavissa \u2013 ja jatketaan keskustelua siit\u00e4, mihin suuntaan \u00e4\u00e4niaallon harja meid\u00e4t seuraavaksi vie! Kiitos kun kuuntelit ja kiitos vieraille viel\u00e4 kerran.",
+      "style": "L\u00e4mmin, kiitollinen ja innostava juontajan \u00e4\u00e4ni, jossa on yhteenvetoa ja kannustusta jatkaa keskustelua. \u00c4\u00e4ness\u00e4 on yst\u00e4v\u00e4llinen ja hyv\u00e4ntuulinen s\u00e4vy.",
+      "start_time": 692.6560000000001,
+      "end_time": 750.6640000000001,
+      "duration": 58.008,
+      "voice": "alloy",
+      "audio_file": "output_script/demo_speech_files_openai\\utterance_18_Minna_Rautio.wav"
+    }
+  ],
+  "audio_ambient": [
+    {
+      "type": "intro",
+      "prompt": "Create a 10-second instrumental intro with a modern, innovative, and optimistic feel, reflecting the intersection of technology and audio media. Style: contemporary electronic with subtle Nordic influences. Mood: forward-thinking, energetic yet welcoming. Tempo: 110 BPM. Instruments: warm synth pads, gentle plucked synth arpeggios, light electronic percussion, soft piano accents, and subtle digital sound effects (e.g., data blips, airy swells). The music should build quickly, introducing a memorable, uplifting motif that suggests both creativity and technological advancement, then resolve smoothly to allow for the host's voiceover.",
+      "audio_file": "output_script/demo_music_files_replicate\\music_intro_edited.wav"
+    },
+    {
+      "type": "intermediate",
+      "location": 8,
+      "prompt": "Design a 10-second instrumental transition piece to signal a midpoint shift in the conversation. Style: consistent with the intro\u2014contemporary electronic with a touch of Scandinavian minimalism. Mood: thoughtful, slightly introspective but still positive, suggesting a moment of reflection before moving forward. Tempo: 110 BPM. Instruments: soft synth textures, mellow electric piano, subtle electronic percussion (e.g., shaker, light kick), and a gentle melodic motif on a marimba or mallet synth. The music should provide a smooth, non-distracting bridge, fading in and out cleanly to maintain flow and focus.",
+      "audio_file": "output_script/demo_music_files_replicate\\music_intermediate_edited.wav"
+    },
+    {
+      "type": "outro",
+      "prompt": "Compose a 10-second instrumental outro that echoes the intro's modern electronic style, but with a sense of closure and inspiration. Style: contemporary electronic with a hint of cinematic uplift. Mood: conclusive, warm, and encouraging, leaving listeners with a sense of possibility. Tempo: 110 BPM. Instruments: lush synth pads, soft piano chords, gentle electronic percussion, and a reprise of the intro's motif with added harmonic richness. The piece should gradually build and then gently resolve, signaling the end of the episode while reinforcing the podcast's innovative and human-centered theme.",
+      "audio_file": "output_script/demo_music_files_replicate\\music_outro_edited.wav"
+    }
+  ]
+}

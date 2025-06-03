@@ -24,14 +24,14 @@ UTTERANCE_GAP = 0.80 # gap between utterances in seconds
 if 1:
     PLANNER_LLM = 'openai/gpt-4.1'
     HOST_LLM = 'openai/gpt-4.1'
-    GUEST_LLM = 'openai/gpt-4o'
+    GUEST_LLM = 'openai/gpt-4.1'
     FINALIZING_LLM = 'openai/gpt-4.1'
     SELECTOR_LLM = 'openai/gpt-4.1'
     AUDIO_LLM = 'openai/gpt-4.1'
     MUSIC_LLM = 'replicate'
-    #TEXT_TO_SPEECH = "gpt-4o-mini-tts"
+    TEXT_TO_SPEECH = "gpt-4o-mini-tts"
     #TEXT_TO_SPEECH = "eleven_flash_v2_5"  # "eleven_multilingual_v2",
-    TEXT_TO_SPEECH = "eleven_multilingual_v2"
+    #TEXT_TO_SPEECH = "eleven_multilingual_v2"
 else:
     PLANNER_LLM = "gpt-4o-mini"
     HOST_LLM = "gpt-4o-mini"

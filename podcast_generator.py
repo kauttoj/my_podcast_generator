@@ -330,8 +330,8 @@ Please analyze this raw podcast script and enhance it by:
 
 1. Verifying that utterances don't contain any non-verbal texts or cues that are NOT meant to be spoken out loud. The final utterances must only contain spoken texts tokens.                
 2. Fix any grammar and discontinuity issues and typos, but do not modify original meaning of utterances.
-3. Try to make utterance appear as realistic podcast style discussion with real dialogue between real people with emotional tones. 
-4. Replace ???'s with detailed speech style descriptions for each utterance to guide text-to-speech model in speech generation.
+3. Try to make utterance appear as realistic, relaxed podcast style discussion with valid dialogue between real people with emotions. Avoid long and boring monologues.
+4. Replace ???'s with detailed speech style descriptions for each utterance to guide text-to-speech model in speech generation. Keep descriptions consistent for each person, while adapting to discussion.
 
 Speech style descriptions can contain following elements:
     -Emotional range
@@ -378,12 +378,12 @@ Format your response as a code block with ONLY the JSON array.
             response = client.chat.completions.create(
                 model=params.LOCAL_LLM_MODEL,
                 messages=messages,
-                temperature=0.3
+                temperature=0.5
             )
         else:
             # Use aisuite for OpenAI/Anthropic
             try:
-                response = completion(model=params.FINALIZING_LLM, messages=messages,temperature=0.3)
+                response = completion(model=params.FINALIZING_LLM, messages=messages,temperature=0.5)
                 # response = ai_client.chat.completions.create(
                 #     model=get_aisuite_model_name(params.FINALIZING_LLM),
                 #     messages=messages,
